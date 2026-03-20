@@ -20,7 +20,7 @@ const oxs = buildOXS({
 In the browser, include the script and call `buildOXS` directly:
 
 ```html
-<script src="puntada.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/infrahumano/puntada@v0.1.0/puntada.js"></script>
 ```
 
 In Node.js:
