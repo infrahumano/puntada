@@ -1,0 +1,8 @@
+{
+  "name": "puntada",
+  "version": "0.1.0",
+  "description": "OXS (Open Cross-Stitch) file generation library",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
